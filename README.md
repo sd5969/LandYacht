@@ -1,4 +1,4 @@
-# About the Land Yacht project.
+# About the Land Yacht project
 
 The land yacht project is a research project out of the University of Illinois at Urbana-Champaign's Dullerud Research Group (HoTDeC Lab)  which is exploring the autonomous control of a land yacht. More description to come soon.
 
