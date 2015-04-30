@@ -1,2 +1,4 @@
 tmp
 Scripts/aerocore_default.bin
+bootloader/*.bin
+bootlader/*.elf
