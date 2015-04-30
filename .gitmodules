@@ -1,3 +1,6 @@
 [submodule "Firmware"]
 	path = Firmware
 	url = https://github.com/sdlynx/Firmware
+[submodule "build"]
+	path = build
+	url = https://github.com/aerocore/build
